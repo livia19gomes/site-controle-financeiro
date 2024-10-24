@@ -168,7 +168,7 @@ section {
         width: 1rem;
         height: 1rem;
     }
-tem menu de contexto
+/* tem menu de contexto */
 
 /* Css estrutura site */
 body {
@@ -269,6 +269,7 @@ footer {
     color: var(--titulo);
     padding: 20px;
     text-align: left;
+    font-family: "Avenir-Medium";  
 }
 
 .p3 {
